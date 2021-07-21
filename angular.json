@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "PostWebsite"
+    }
+  },
+  "defaultProject": "PostWebsite",
+  "cli": {
+    "analytics": "beea0ea8-5c69-400f-b1f9-fd13db8fd556"
+  }
 }
